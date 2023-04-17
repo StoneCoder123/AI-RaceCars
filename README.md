@@ -5,7 +5,7 @@ The engine used is the Unity Game Engine. The purpose of the engine is only for 
 
 I might later extend this to make a fully fledged racing game where the AI is trained by this method.
 
-
+To run the game, click on the Self Driving Car.exe file. Make sure there are to .dll errors.
 
 
 Important Controls And Instructions: 1) 'P' is to progress a generation ( Each car's NN is updated)
